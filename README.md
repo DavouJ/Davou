@@ -1,4 +1,4 @@
-# Hi, Im [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B5634A&background=28BDFF00&random=false&width=435&lines=Davou;Developer;Photographer;Videographer;Bassist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=B5634A&background=28BDFF00&random=false&width=435&lines=Davou;Developer;Photographer;Videographer;Bassist)](https://git.io/typing-svg)
 
 
 ### I'm currently a dev👨🏾‍💻 dev 
