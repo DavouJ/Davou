@@ -18,18 +18,11 @@
 
 |                Tech Stacks                                                               |
 | :-----------------------------------------------------------------------------------------------: |
-![My Skills](https://skillicons.dev/icons?i=scala,js,html,css,c,java,py,react,jenkins,jquery,mongodb,postman,bootstrap,mysql,netlify,docker,gcp)
-
-
-|                                                                                                                                                                          Pinned        |        Repos                                                                                                                                                                    |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavouJ&repo=Bloomify&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)                           | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavouJ&repo=Ping-Traceroute&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)                 |
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavouJ&repo=virtual-art-gallery&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)                | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavouJ&repo=Weather-App&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)                     |
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavouJ&repo=Solar-system&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)                       | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavouJ&repo=Scala-Play-RESTful--API&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)         |
+![My Skills](https://skillicons.dev/icons?i=scala,js,html,css,c,java,py,react,jenkins,jquery,mongodb,postman,bootstrap,mysql,netlify,docker,gcp)                                                                                                                                     
 
 
 
 |                                                                                                                                                                          Stats                                                                                                                                                 |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=COD3BENDER&theme=monokai&hide_border=false)            [![DavouJ's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DavouJ&exclude_repo=&hide=&langs_count=6&theme=monokai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=DavouJ&theme=monokai&hide_border=false)            [![DavouJ's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DavouJ&exclude_repo=&hide=&langs_count=6&theme=monokai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
 </center>
