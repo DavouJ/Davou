@@ -12,13 +12,13 @@
 
 |                                                      Check Out my Socials                                                                           |
 | :---------------------------------------------------------------: |
-|[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/davou-jobbi/)  [![LinkedIn](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/djj.visuals/)|
+|[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/davou-jobbi/)  
 
 
 
 |                Tech Stacks                                                               |
 | :-----------------------------------------------------------------------------------------------: |
-![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,py,react,bootstrap,scala,mysql,netlify,docker,gcp)
+![My Skills](https://skillicons.dev/icons?i=scala,js,html,css,c,java,py,react,jenkins,jquery,mongodb,postman,bootstrap,mysql,netlify,docker,gcp)
 
 
 |                                                                                                                                                                          Pinned        |        Repos                                                                                                                                                                    |
